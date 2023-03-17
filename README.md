@@ -1,5 +1,5 @@
 # Vue js todo app
-Created Vue 3 Todo Application (Add and remove with count items)
+Created Todo Application using Vue js And Tailwind css. (Add and remove with count items)
 
 ```sh
 npm install
